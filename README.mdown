@@ -1,0 +1,11 @@
+Twilio REST bindings packaged for PHP 5.3
+-----------------------------------------
+
+
+This *IS NOT* original work. I've just repackaged the original Twilio PHP
+API (only REST bindings) located here: [https://github.com/twilio/twilio-php](https://github.com/twilio/twilio-php) and
+added a very simple test.
+
+This is meant to be a simple replacement for Twilio PHP API library for us that don't
+use TwiML and only want basic functionality (in my case, just to send
+SMS).
